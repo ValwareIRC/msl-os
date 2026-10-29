@@ -44,3 +44,7 @@ then in the MSL OS Terminal: `telnet 127.0.0.1 2323`.
 - `tools/api.ps1` – send lines to a running `mslrt` control API
 - `tools/termtest.ps1` – end-to-end Terminal test with a screenshot
 - `tools/crop.ps1` – crop/zoom a screenshot region
+
+## License
+
+MIT, see [LICENSE](LICENSE).
