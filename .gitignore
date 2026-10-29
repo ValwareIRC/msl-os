@@ -1,0 +1,20 @@
+# runtime binary (build it from msl-runtime, or grab a release)
+mslrt.exe
+mslrt
+
+# msl-runtime checkout used for development (separate repo)
+tools/msl-runtime/
+
+# test run output from tools/termtest.ps1
+tools/testrun/
+tools/testrun2/
+
+# per-run data written by the OS (settings, virtual disk)
+mslos/
+
+# editor / IDE
+.prism/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
